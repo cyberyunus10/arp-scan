@@ -57,8 +57,4 @@ Here’s an example of the script in action:
 - Works best on local networks.
 - Requires administrative/root privileges on some systems to send ARP requests.
 
----
 
-## License 📝
-
-This project is licensed under the MIT License. Feel free to use and modify it.
